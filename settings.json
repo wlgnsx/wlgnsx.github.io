@@ -2,7 +2,7 @@
     "pageTitle": "나만의 배우&아이돌상 테스트",
     "mainTitle": "난 무슨 상일까",
     "subtitle": "얼굴로 보는 인공지능 배우&아이돌상 테스트",
-    "footerText": "&copy; 허석테크 2024. All Rights Reserved.",
+    "footerText": "&copy;  2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/CPrPznTPo/",
     "classDetails": [
@@ -21,10 +21,10 @@
             "color": "rgba(251, 176, 59, 1)"
         },
         {
-            "name": "고양이",
-            "title": "고양이상",
-            "explain": "도도하고 섹시한 당신은 첫인상은 차가워 보이지만 묘한 매력을 풍겨 언제나 인기가 넘친다. 자존심이 세계 1등과 맞먹지만 관심 받는 것을 좋아하고 애인에게 관심이 받고 싶을 때는 애교도 부릴 줄 아는 귀여운 매력을 가졌다. 시크한 츤데레로 연인에게 끊임없이 설렘을 안겨주는 당신은 고양이와 닮았다!",
-            "celeb": "고양이상 연예인: 안소희(원더걸스), 오연서, 한예슬, 이성경, 이효리",
+            "name": "",
+            "title": "",
+            "explain": "",
+            "celeb": "",
             "color": "rgba(265, 100, 50, 1)"
         }
     ]
