@@ -4,7 +4,7 @@
     "subtitle": "얼굴로 보는 인공지능 배우&아이돌상 테스트",
     "footerText": "&copy;  2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/CPrPznTPo/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/nUtBYOXbJ/",
     "classDetails": [
         {
             "name": "아이돌",
@@ -19,13 +19,6 @@
             "explain": " 대체로 어두운계열의 머리색깔이 어울리고 금발이 어색함. 얼굴선도 뭉툭한편이다. ",
             "celeb": " 연예인: 주지훈, 지창욱, 박보영, 김지원, 이제훈",
             "color": "rgba(251, 176, 59, 1)"
-        },
-        {
-            "name": "",
-            "title": "",
-            "explain": "",
-            "celeb": "",
-            "color": "rgba(265, 100, 50, 1)"
         }
     ]
 }
